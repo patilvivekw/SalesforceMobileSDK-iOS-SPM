@@ -2,7 +2,7 @@
 
 #set -x
 
-OPT_REPO="forcedotcom"
+OPT_REPO="patilvivekw"
 OPT_BRANCH="dev"
 YELLOW='\033[0;33m'
 NC='\033[0m' # No Color
@@ -11,7 +11,7 @@ usage ()
 {
     echo "Use this script to set generate xcframeworks for Swift Package Manager"
     echo "Usage: $0 -r org -b branch"
-    echo "  where: - org is the organization of the iOS repo e.g forcedotcom"
+    echo "  where: - org is the organization of the iOS repo e.g patilvivekw"
     echo "         - branch is the branch to checkout e.g. dev"
     exit 1
 }
