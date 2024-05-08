@@ -3,6 +3,8 @@
 ### What's in Mobile SDK for iOS
 See [iOS repo](https://github.com/forcedotcom/SalesforceMobileSDK-iOS).
 
+Also ->
++ Disabled ID endpoint call
 
 Documentation
 ==
