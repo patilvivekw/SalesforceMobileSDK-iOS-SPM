@@ -3,7 +3,7 @@
 #set -x
 
 OPT_REPO="patilvivekw"
-OPT_BRANCH="dev"
+OPT_BRANCH="v12.0.1_custom"
 YELLOW='\033[0;33m'
 NC='\033[0m' # No Color
 
